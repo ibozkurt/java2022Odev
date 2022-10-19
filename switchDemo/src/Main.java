@@ -10,7 +10,7 @@ public class Main {
                 System.out.println("Çok Güzel: Geçtiniz.");
                 break;
             case 'C':
-                System.out.println("İyi Geçtiniz");
+                System.out.println("İyi Geçtiniz.");
                 break;
             case 'D':
                 System.out.println("Fenal Değil: Geçtiniz");
