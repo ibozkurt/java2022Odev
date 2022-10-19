@@ -4,7 +4,7 @@ public class Main {
 
         switch (grade) {
             case 'A':
-                System.out.println("Mükemmel: Geçtiniz");
+                System.out.println("Mükemmel: Geçtiniz....");
                 break;
             case 'B':
                 System.out.println("Çok Güzel: Geçtiniz.");
